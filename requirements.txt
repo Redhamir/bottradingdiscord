@@ -1,6 +1,0 @@
-discord.py==2.4.1
-yfinance==0.2.26
-pandas==2.2.2
-numpy==1.26.4
-aiohttp==3.8.4
-python-dotenv==1.0.0
