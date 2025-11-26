@@ -1,5 +1,7 @@
 discord.py>=2.3.0
 yfinance>=0.2.18
 pandas>=1.5.0
-numpy>=1.21.0
-ta-lib>=0.4.24
+numpy>=1.23.0
+ta>=0.10.2
+flask>=2.0.0
+requests>=2.30.0
